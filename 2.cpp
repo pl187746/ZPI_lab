@@ -1,6 +1,6 @@
 #include <windows.h>
 #include <stdlib.h>
-int main(int argc, char* argv[])
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPCTSTR cmdLine, int showCmd)
 {
 	printf(„Hello World!”);
 }
