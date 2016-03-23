@@ -1,6 +1,6 @@
-#include <cstdio>
+#include <stdio.h>
 #include <stdlib.h>
 int main()
-{ 42;
+{
 	printf(„Hello World!”);
 }
