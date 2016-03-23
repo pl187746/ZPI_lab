@@ -1,0 +1,8 @@
+logs/*
+!logs/
+!logs/*.important
+
+
+
+.DS_Store
+
